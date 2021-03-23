@@ -1,0 +1,44 @@
+body {
+  color: white;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  background-color: green;
+  width: 70%;
+  height: 150px;
+  display: flex;
+  /* flex-direction: row; */
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+header > img {
+  height: 100px;
+}
+
+h1 {
+  font-family: fantasy;
+}
+
+#all-characters {
+  list-style: none;
+  overflow-x: scroll;
+  display: flex;
+  width: 67%;
+  height: 25%
+}
+
+main {
+  display: none;
+  width: 70%;
+  border: 5px solid white;
+}
+
+
+input[type="text"] {
+  width: 380px;
+}

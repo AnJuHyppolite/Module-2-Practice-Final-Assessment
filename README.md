@@ -24,14 +24,14 @@ Wubba lubba dub dub!!! Create an out of this world app using the [Rick And Morty
 See an app video [here](https://www.youtube.com/watch?v=bGyZYHU3cJ0) and can be played with [here](https://joinpursuit.github.io/Module-2-Practice-Final-Assessment/)
 
 This **burp** app should have (in order of placement in the HTML):
-- A title tag that starts with the text "Szechuan Sauce"
+<!-- - A title tag that starts with the text "Szechuan Sauce"
 - A header tag. Make it mean and make it green. 
 - Inside the header an `h1` that reads "Rick & Morty" with fantasy font.
-- Inside the header an image of Rick and Morty (check your assets folder!)
+- Inside the header an image of Rick and Morty (check your assets folder!) -->
 
-- A `ul` with the id `all-characters` that contains an `li`'s with an image (id=`photo-img`) of each character in the API (first page only), as well as the characters name.
+<!-- - A `ul` with the id `all-characters` that contains an `li`'s with an image (id=`photo-img`) of each character in the API (first page only), as well as the characters name. -->
 - A `main` tag that starts not on the page
-- Inside of `main` should be two sections. The first section should have the id `character-info` the second should have the id `character-comments-section`.
+<!-- - Inside of `main` should be two sections. The first section should have the id `character-info` the second should have the id `character-comments-section`. -->
 - Inside of `character-info` should be be an `h3` an `img` and two `p` tags. 
 - Inside of `character-comments-section` should be a `form`, including a "text" `input` and a "submit" `input`, that allows users to submit (not save, just add to the frontend) what they would say about the character Jerry. On submission the input should clear.
 - Also insider `character-comments-section`  should be a `ul` with the id `character-comments-ul` that contains the submitted comments of each character.
